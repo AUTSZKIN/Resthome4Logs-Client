@@ -1,5 +1,5 @@
 [
-{"id":"VUW"},
+{"id":["VUW"]},
 {"id":"STAT193","parentIds":["VUW"]},
 {"id":"CGRA151","parentIds":["COMP102","ENGR121"]},
 {"id":"CGRA251","parentIds":["CGRA151","NWEN241","ENGR121"]},
