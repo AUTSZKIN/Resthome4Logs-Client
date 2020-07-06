@@ -1,34 +1,34 @@
 [
   { 
-    "id": "COMP102 ",
+    "id": "COMP102",
     "parentIds": [] 
   },
   {
-    "id": "ENGR121 ",
+    "id": "ENGR121",
     "parentIds": [] 
   },
   {
-    "id": "COMP103 ",
+    "id": "COMP103",
     "parentIds": ["COMP102"] 
   },
   {
-    "id": "NWEN241 ",
+    "id": "NWEN241",
     "parentIds": ["COMP103"] 
   },
   {
-    "id": "ENGR123 ",
+    "id": "ENGR123",
     "parentIds": ["ENGR121"] 
   },
   {
-    "id": "COMP261 ",
+    "id": "COMP261",
     "parentIds": ["COMP103", "ENGR123"] 
   },
   {
-    "id": "CGRA151 ",
+    "id": "CGRA151",
     "parentIds": ["COMP102", "ENGR121"] 
   },
   {
-    "id": "CGRA251 ",
+    "id": "CGRA251",
     "parentIds": ["CGRA151", "NWEN241", "ENGR121"] 
   }
 ]
