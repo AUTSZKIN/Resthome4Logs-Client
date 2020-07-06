@@ -2,5 +2,7 @@
   { "id": "COMP102 ", "parentIds": [] },
   { "id": "ENGR121 ", "parentIds": [] },
   { "id": "COMP103 ", "parentIds": ["COMP102"] },
-  { "id": "NWEN241 ", "parentIds": ["COMP103"] }
+  { "id": "NWEN241 ", "parentIds": ["COMP103"] },
+  { "id": "ENGR123 ", "parentIds": ["ENGR121"] },
+  { "id": "COMP261 ", "parentIds": ["COMP103", "ENGR123"] }
 ]
