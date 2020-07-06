@@ -1,7 +1,7 @@
 [
   { 
     "id": "COMP102",
-    "parentIds": [] 
+    "parentIds": [""] 
   },
   {
     "id": "ENGR121",
