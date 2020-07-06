@@ -1,4 +1,6 @@
 [
   { "id": "COMP102 ", "parentIds": [] },
-  { "id": "ENGR121 ", "parentIds": [] }
+  { "id": "ENGR121 ", "parentIds": [] },
+  { "id": "COMP103 ", "parentIds": ["COMP102"] },
+  { "id": "NWEN241 ", "parentIds": ["COMP103"] }
 ]
