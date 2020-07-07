@@ -11,7 +11,7 @@
 {"id":"CGRA463","parentIds":["VUW"]},
 {"id":"CGRA471","parentIds":["VUW"]},
 {"id":"CGRA472","parentIds":["VUW"]},
-{"id":"COMP102","parentIds":["VUW"]},
+{"id":"COMP102","parentIds":["COMP102"]},
 {"id":"COMP103","parentIds":["COMP102"]},
 {"id":"COMP112","parentIds":["VUW"]},
 {"id":"COMP132","parentIds":["VUW"]},
